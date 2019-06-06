@@ -1,0 +1,6 @@
+src/Evento.IO.Domain/bin/*
+src/Evento.IO.Domain/obj/*
+
+src/Evento.IO.Domain.Core/bin/*
+src/Evento.IO.Domain.Core/obj/*
+.vs/*
